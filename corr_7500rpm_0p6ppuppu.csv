@@ -1,0 +1,65 @@
+speed_rpm,load_pu,param_i,param_j,correlation
+7500,0.6,Efficiency,Efficiency,1.0
+7500,0.6,Efficiency,Torque ripple,-0.30519451756519017
+7500,0.6,Efficiency,Stator Cu loss,-0.4465355377998232
+7500,0.6,Efficiency,Rotor eddy loss,-0.49891893236625784
+7500,0.6,Efficiency,Temp. rise,-0.399351927917262
+7500,0.6,Efficiency,Power factor,0.47208774377684803
+7500,0.6,Efficiency,Voltage regulation,-0.21424096820917796
+7500,0.6,Efficiency,Field current,-0.23902228871207315
+7500,0.6,Torque ripple,Efficiency,-0.30519451756519017
+7500,0.6,Torque ripple,Torque ripple,1.0
+7500,0.6,Torque ripple,Stator Cu loss,0.259116399503006
+7500,0.6,Torque ripple,Rotor eddy loss,0.3971875474572871
+7500,0.6,Torque ripple,Temp. rise,0.21984945468223543
+7500,0.6,Torque ripple,Power factor,-0.2605909053445547
+7500,0.6,Torque ripple,Voltage regulation,0.2850719052554211
+7500,0.6,Torque ripple,Field current,0.20424281830514826
+7500,0.6,Stator Cu loss,Efficiency,-0.4465355377998232
+7500,0.6,Stator Cu loss,Torque ripple,0.259116399503006
+7500,0.6,Stator Cu loss,Stator Cu loss,1.0
+7500,0.6,Stator Cu loss,Rotor eddy loss,0.3081633957371543
+7500,0.6,Stator Cu loss,Temp. rise,0.5257385703237921
+7500,0.6,Stator Cu loss,Power factor,-0.2836949033262833
+7500,0.6,Stator Cu loss,Voltage regulation,0.2127698836183236
+7500,0.6,Stator Cu loss,Field current,0.228383234983939
+7500,0.6,Rotor eddy loss,Efficiency,-0.4989189323662578
+7500,0.6,Rotor eddy loss,Torque ripple,0.3971875474572871
+7500,0.6,Rotor eddy loss,Stator Cu loss,0.30816339573715423
+7500,0.6,Rotor eddy loss,Rotor eddy loss,1.0
+7500,0.6,Rotor eddy loss,Temp. rise,0.6617867764949751
+7500,0.6,Rotor eddy loss,Power factor,-0.23681068983728396
+7500,0.6,Rotor eddy loss,Voltage regulation,0.22056957092818474
+7500,0.6,Rotor eddy loss,Field current,0.5251900205737571
+7500,0.6,Temp. rise,Efficiency,-0.399351927917262
+7500,0.6,Temp. rise,Torque ripple,0.21984945468223552
+7500,0.6,Temp. rise,Stator Cu loss,0.5257385703237921
+7500,0.6,Temp. rise,Rotor eddy loss,0.6617867764949752
+7500,0.6,Temp. rise,Temp. rise,1.0
+7500,0.6,Temp. rise,Power factor,-0.16185137213162873
+7500,0.6,Temp. rise,Voltage regulation,0.09536736896875812
+7500,0.6,Temp. rise,Field current,0.2538331289237604
+7500,0.6,Power factor,Efficiency,0.472087743776848
+7500,0.6,Power factor,Torque ripple,-0.2605909053445547
+7500,0.6,Power factor,Stator Cu loss,-0.2836949033262833
+7500,0.6,Power factor,Rotor eddy loss,-0.23681068983728396
+7500,0.6,Power factor,Temp. rise,-0.16185137213162867
+7500,0.6,Power factor,Power factor,1.0
+7500,0.6,Power factor,Voltage regulation,-0.4040488999525067
+7500,0.6,Power factor,Field current,-0.20672752561314647
+7500,0.6,Voltage regulation,Efficiency,-0.21424096820917793
+7500,0.6,Voltage regulation,Torque ripple,0.2850719052554211
+7500,0.6,Voltage regulation,Stator Cu loss,0.2127698836183236
+7500,0.6,Voltage regulation,Rotor eddy loss,0.22056957092818474
+7500,0.6,Voltage regulation,Temp. rise,0.09536736896875811
+7500,0.6,Voltage regulation,Power factor,-0.4040488999525067
+7500,0.6,Voltage regulation,Voltage regulation,1.0
+7500,0.6,Voltage regulation,Field current,0.360318940872816
+7500,0.6,Field current,Efficiency,-0.2390222887120731
+7500,0.6,Field current,Torque ripple,0.20424281830514823
+7500,0.6,Field current,Stator Cu loss,0.22838323498393892
+7500,0.6,Field current,Rotor eddy loss,0.5251900205737571
+7500,0.6,Field current,Temp. rise,0.25383312892376036
+7500,0.6,Field current,Power factor,-0.20672752561314642
+7500,0.6,Field current,Voltage regulation,0.360318940872816
+7500,0.6,Field current,Field current,1.0
